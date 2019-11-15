@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Dosis&display=swap');
+
+
+
+body{
+font-family: 'Dosis', sans-serif;
+color : white;
+}
+
+header {
+  font-family: 'Amatic SC', cursive; bold;
+  color: #F2294E;
+  font-size: 10em;
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive; bold;
+color: #F2294E;
+font-size: 5em;
+}
+
+#two h1 {
+  color: rgb(252, 222, 2);
+}
